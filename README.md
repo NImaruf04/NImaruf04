@@ -16,9 +16,6 @@
 ![](https://raw.githubusercontent.com/NImaruf04/cf-stats/main/output/light_card.svg)
 
 ![](https://raw.githubusercontent.com/NImaruf04/cf-stats/main/output/max_rating.svg)
-
-![](https://raw.githubusercontent.com/emamhasan1804/demo/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/emamhasan1804/demo/main/output/light_card.svg)
 [![](https://atcoder-stats-git-main-akmhmgc.vercel.app/api?username=crazyha)](https://github.com/akmhmgc/atcoder-stats)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/emam_hasan_himu?theme=light)
