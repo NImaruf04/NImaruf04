@@ -11,8 +11,7 @@
 
 ![](https://komarev.com/ghpvc/?username=NImaruf04&base=0)
 #### 📈 Competitive Programming
-###### Max Rating
-![](https://raw.githubusercontent.com/NImaruf04/cf-stats/main/output/max_rating.svg)
+###### Max Rating  ![](https://raw.githubusercontent.com/NImaruf04/cf-stats/main/output/max_rating.svg)
 
 
 
