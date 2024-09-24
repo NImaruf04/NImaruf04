@@ -14,10 +14,8 @@
 ###### Max Rating
 ![](https://raw.githubusercontent.com/NImaruf04/cf-stats/main/output/max_rating.svg)
 
-
-
-###### Current Rating
 ![](https://raw.githubusercontent.com/NImaruf04/cf-stats/main/output/rating.svg)
+###### Current Rating
 
 ![](https://raw.githubusercontent.com/NImaruf04/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/NImaruf04/cf-stats/main/output/light_card.svg)
