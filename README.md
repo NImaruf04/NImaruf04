@@ -27,14 +27,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="30"/></a>
 
 
-
-##### Development
-
-<img src="src/pngegg.png" width="30" /></a>
-
 ##### Editor & IDE
 <img src="src/vs.png" width="30"/></a>
-<img src="src/android-studio-icon.png" width="30"/></a>
-<img src="src/pngwing.com.png" width="30"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emamhasan1804)](https://github.com/anuraghazra/github-readme-stats)
