@@ -9,7 +9,7 @@
 <a href="https://www.facebook.com/nimaruf04" target="blank_"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="30" height="30"/></a>
 <a href="https://www.linkedin.com/in/nimaruf/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" height="30"/></a>
 
-![](https://komarev.com/ghpvc/?username=emamhasan1804&base=0)
+![](https://komarev.com/ghpvc/?username=NImaruf04&base=0)
 #### 📈 Competitive Programming
 
 ![](https://raw.githubusercontent.com/emamhasan1804/demo/main/output/max_rating.svg)
