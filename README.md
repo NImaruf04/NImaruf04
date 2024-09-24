@@ -1,12 +1,12 @@
-#### Hello there 👋, I'm Md. Emam Hasan
+#### Hello there 👋, I'm Naimul Islam Maruf
 
 ## I am a Competitive Programmer!!
 
-- 🥅 2024 Goals: To become codeforces specialist, 4* coder on codechef and solve 500+ problems on codeforces
+- 🥅 2024 Goals: To become codeforces pupil, 3* coder on codechef and solve 400+ problems on codeforces
 - 🥅 2025 Goals: To become codeforces expert and solve 250+ problems on codeforces
 
 #### Contact me:
-<a href="https://www.facebook.com/mdemamhasan.himu" target="blank_"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="30" height="30"/></a>
+<a href="https://www.facebook.com/nimaruf04" target="blank_"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="30" height="30"/></a>
 <a href="https://www.linkedin.com/in/md-emam-hasan-4039342b2/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" height="30"/></a>
 
 ![](https://komarev.com/ghpvc/?username=emamhasan1804&base=0)
